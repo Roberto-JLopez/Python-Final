@@ -22,7 +22,9 @@ git init
 
 5. Creamos un archivo:
 
-```touch finales.py```
+```
+touch finales.py
+```
 
 6. Abrimos VSC:
 
